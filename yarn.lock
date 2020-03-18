@@ -558,6 +558,13 @@
   dependencies:
     react-native-platform-touchable "^1.1.1"
 
+"@expo/vector-icons@^9.0.0":
+  version "9.0.0"
+  resolved "https://registry.yarnpkg.com/@expo/vector-icons/-/vector-icons-9.0.0.tgz#7f18e21d3edc8b99b76d7d1b8e26b212393e08b3"
+  dependencies:
+    lodash "^4.17.4"
+    react-native-vector-icons "6.0.0"
+
 "@expo/vector-icons@github:expo/vector-icons#expo-font-fix":
   version "8.0.0"
   resolved "https://codeload.github.com/expo/vector-icons/tar.gz/259d1ab7bd298832213733b5260d55b95b611df7"
@@ -3823,8 +3830,8 @@ lodash.mapvalues@^4.6.0:
   resolved "https://registry.yarnpkg.com/lodash.mapvalues/-/lodash.mapvalues-4.6.0.tgz#1bafa5005de9dd6f4f26668c30ca37230cc9689c"
 
 lodash.merge@^4.0.0:
-  version "4.6.1"
-  resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.1.tgz#adc25d9cb99b9391c59624f379fbba60d7111d54"
+  version "4.6.2"
+  resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.2.tgz#558aa53b43b661e1925a0afdfa36a9a1085fe57a"
 
 lodash.omit@^4.5.0:
   version "4.5.0"
